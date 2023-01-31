@@ -1,5 +1,8 @@
 # Mall
+
 mall项目的实现和完成此项目为协作项目
+
+## 前端使用Mall的前端
 
 # 前端
 
@@ -43,7 +46,21 @@ cnpm install
 
 # 后端
 
+## 1.mall整合SpringBoot+MyBatis搭建基本骨架
 
+sql文件放在/File
+
+SpringBoot依赖
+
+[mall整合SpringBoot+MyBatis搭建基本骨架 | mall学习教程 (macrozheng.com)](https://www.macrozheng.com/mall/architect/mall_arch_01.html#添加mybatis的java配置)
+
+主要操作的表为pms_brand
+
+可以先完成mall整合Swagger-UI实现在线API文档
+
+## 2.mall整合Swagger-UI实现在线API文档
+
+[mall整合Swagger-UI实现在线API文档 | mall学习教程 (macrozheng.com)](https://www.macrozheng.com/mall/architect/mall_arch_02.html#项目使用框架介绍)
 
 # 提交
 
