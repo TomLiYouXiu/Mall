@@ -70,7 +70,13 @@ SpringBoot依赖
 
 # TODO
 
-- [ ] 框架搭建
-- [ ] 数据库
-- [ ] 前端项目
-
+- [ ] 架构
+  - [ ] springboot
+  - [ ] my-plus
+  - [ ] redis
+  - [ ] el（搜索）
+- [ ] 业务
+  - [ ] 基本业务
+- [ ] 部署
+  - [ ] linux
+  - [ ] docker
